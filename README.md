@@ -12,5 +12,7 @@
 
 #Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Karoline Oliveira</sub>]
-| :---: | :---: |
+<img loading="lazy" src="https://github.com/user-attachments/assets/9a864162-6e61-447d-8280-1c12bd0eaa7a" width=115><br><sub>Karoline Oliveira</sub>]
+
+
+
